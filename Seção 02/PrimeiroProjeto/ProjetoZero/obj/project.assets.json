@@ -11807,11 +11807,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lucas Lima\\Desktop\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero.csproj",
+      "projectUniqueName": "C:\\Users\\Lucas Lima\\Documents\\GitHub\\ASPNETCoreMVC\\Seção 02\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero.csproj",
       "projectName": "ProjetoZero",
-      "projectPath": "C:\\Users\\Lucas Lima\\Desktop\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero.csproj",
+      "projectPath": "C:\\Users\\Lucas Lima\\Documents\\GitHub\\ASPNETCoreMVC\\Seção 02\\PrimeiroProjeto\\ProjetoZero\\ProjetoZero.csproj",
       "packagesPath": "C:\\Users\\Lucas Lima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lucas Lima\\Desktop\\PrimeiroProjeto\\ProjetoZero\\obj\\",
+      "outputPath": "C:\\Users\\Lucas Lima\\Documents\\GitHub\\ASPNETCoreMVC\\Seção 02\\PrimeiroProjeto\\ProjetoZero\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
